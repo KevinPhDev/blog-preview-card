@@ -18,3 +18,9 @@ body {
   max-width: 350px;
 }
 
+.topic {
+  max-width: max-content;
+  padding: 3px 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
