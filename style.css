@@ -31,6 +31,10 @@ body,
   margin-bottom: 10px;
 }
 
+.headline-link {
+  margin-bottom: 20px;
+}
+
 .author {
   display: flex;
   align-items: center;
