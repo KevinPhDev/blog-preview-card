@@ -38,6 +38,10 @@ body,
   font-weight: bold;
 }
 
+.headline-link >a:hover {
+  color: hsl(47, 88%, 63%);
+}
+
 .author {
   display: flex;
   align-items: center;
