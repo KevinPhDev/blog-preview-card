@@ -38,6 +38,10 @@ body,
   font-weight: bold;
 }
 
+.headline-link > a:visited {
+  color: black;
+}
+
 .headline-link >a:hover {
   color: hsl(47, 88%, 63%);
 }
