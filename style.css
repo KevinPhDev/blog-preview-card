@@ -39,6 +39,10 @@ body,
   font-weight: bold;
 }
 
+.headline-link > a {
+  text-decoration: none;
+}
+
 .headline-link > a:visited {
   color: black;
 }
