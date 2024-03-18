@@ -24,6 +24,10 @@ body,
   background-color: white;
 }
 
+.card:hover {
+  box-shadow: 10px 10px;
+}
+
 .topic {
   max-width: max-content;
   padding: 3px 10px;
@@ -42,7 +46,7 @@ body,
   color: black;
 }
 
-.headline-link >a:hover {
+.headline-link > a:hover {
   color: hsl(47, 88%, 63%);
 }
 
