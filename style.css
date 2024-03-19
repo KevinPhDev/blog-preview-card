@@ -57,6 +57,12 @@ body,
   gap: 10px;
 }
 
+.profile-picture {
+  border: 1px solid black;
+  height: 40px;
+}
+
 .author-name {
   font-weight: bold;
+  font-size: 15px;
 }
