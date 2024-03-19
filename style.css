@@ -41,6 +41,7 @@ body,
 
 .headline-link > a {
   text-decoration: none;
+  color: black;
 }
 
 .headline-link > a:visited {
@@ -58,7 +59,6 @@ body,
 }
 
 .profile-picture {
-  border: 1px solid black;
   height: 40px;
 }
 
